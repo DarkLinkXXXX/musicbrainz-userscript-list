@@ -19,6 +19,5 @@ https://github.com/phw/musicbrainz-magic-tagger-button
 https://github.com/StigNygaard/Stigs_Art_Grabr
 https://github.com/qsniyg/maxurl
 https://github.com/otringal/MB-userscripts
-https://github.com/y-young/userscripts
 https://userscripts-mirror.org/scripts/review/103267
 
